@@ -1,7 +1,7 @@
 # CSV ve veri dosyaları
 *.csv
 *.png
-ilk_data.csv
+hande_tiktok_tools/ilk_data.csv
 
 # PyCharm veya IDE klasörleri
 .idea/
