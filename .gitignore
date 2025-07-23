@@ -1,0 +1,11 @@
+# CSV ve veri dosyaları
+*.csv
+*.png
+ilk_data.csv
+
+# PyCharm veya IDE klasörleri
+.idea/
+.venv/
+
+# hande_hesaplayıcı klasörü
+hande_hesaplayıcı/ 
